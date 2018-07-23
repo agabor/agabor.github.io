@@ -1,3 +1,5 @@
+<div style="float: rigth;"><strong>Magyar</strong> / <a href="en.html">English</a></div>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/agabor/agabor.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
