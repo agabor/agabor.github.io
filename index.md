@@ -1,4 +1,4 @@
-<div style="float: rigth;"><strong>Magyar</strong> / <a href="en.html">English</a></div>
+<div style="float: right;"><strong>Magyar</strong> / <a href="en.html">English</a></div>
 
 ## Welcome to GitHub Pages
 
