@@ -1,4 +1,4 @@
-<div style="float: right;"><strong>Home</strong> [Bio](bio.html) [Partners](partners.html) [English](en.html)</div>
+<div style="float: right;"><strong>Home</strong> [Bio](./bio.html) [Partners](./partners.html) [English](./en.html)</div>
 
 ## Üdvözlöm az oldalamon
 
