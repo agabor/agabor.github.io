@@ -1,8 +1,3 @@
----
----
-
-@import "{{ site.theme }}";
-
 ### **Home** [Bio](./bio-en.html) [Partners](./partners-en.html) [Magyar](./index.html)
 
 ## Welcome to my site!
