@@ -3,8 +3,8 @@
 
 @import "{{ site.theme }}";
 
-h3 {
-  color: green;
+h1, h2, h3, h4, h5 {
+  color: #1e6bb8;
 }
 
 .page-header {
@@ -24,5 +24,9 @@ h3 {
 }
 
 .main-content > p:first-child {
-    background:yellow;
+    margin: auto;
+}
+
+.main-content > p:first-child > a, strong{
+    margin: 10px;
 }
