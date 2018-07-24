@@ -1,4 +1,4 @@
-**Home** [Bio](./bio.html) [Partnerek](./partners.html) [English](./en.html)
+**Home** [Bio](./bio.html) [Partnerek](./partners.html) [English](./index_en.html)
 
 ## Üdvözlöm az oldalamon
 
