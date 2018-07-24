@@ -1,1 +1,1 @@
-[Home](./index_en.html) **Bio** [Partners](./partners_en.html) [Magyar](./bio.html)
+[Home](./en.html) **Bio** [Partners](./partners_en.html) [Magyar](./bio.html)
