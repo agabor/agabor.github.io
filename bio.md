@@ -1,0 +1,1 @@
+[Home](./index.html) **Bio** [Partnerek](./partners.html) [English](./bio_en.html)

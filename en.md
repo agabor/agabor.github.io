@@ -1,4 +1,4 @@
-**Home** [Bio](./bio-en.html) [Partners](./partners-en.html) [Magyar](./index.html)
+**Home** [Bio](./bio_en.html) [Partners](./partners_en.html) [Magyar](./index.html)
 
 ## Welcome to my site!
 
