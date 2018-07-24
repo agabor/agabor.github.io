@@ -3,9 +3,9 @@
 ## Partners
 
 ### [WSCAD GmbH](https://wscad.com)
-Aug. 2015 - present
+Aug. 2015 - present  
 Freelance Software Developer (iOS, C#, ASP.NET)
 
 ### [MarkCon Informatikai Kft.](https://markcon.hu/)
-Jan. 2016 - present
+Jan. 2016 - present  
 Freelance Software Developer (iOS, Android, PHP)
