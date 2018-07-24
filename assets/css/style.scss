@@ -22,3 +22,7 @@ h3 {
 .project-tagline {
   display: none;
 }
+
+.main-content > p:first-child {
+    background:yellow;
+}
